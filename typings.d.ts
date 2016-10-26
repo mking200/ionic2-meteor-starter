@@ -26,4 +26,3 @@ declare module '*.sass' {
   const style: string;
   export default style;
 }
-
