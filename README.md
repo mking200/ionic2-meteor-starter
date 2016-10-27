@@ -1,3 +1,3 @@
 # Ionic 2 - Meteor Starter
 
-Starter app based from starters of Angular2 - Meteor, and Ionic 2.
+Combined starter app from [Angular2-Meteor base](https://github.com/bsliran/angular2-meteor-base), and [Ionic 2 starter](https://github.com/bsliran/angular2-meteor-base).
